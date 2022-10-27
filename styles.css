@@ -227,7 +227,7 @@ aside {
     }
 
     .box h1 {
-        font-size: 3.5rem;
+        font-size: 3.5rem !important;
         margin-bottom: 3rem;
     }
 
@@ -338,7 +338,7 @@ aside {
     }
 
     .box h1 {
-        font-size: 2.2rem;
+        font-size: 2.2rem !important;
         line-height: 1.5;
         margin-bottom: 1.5rem;
     }
