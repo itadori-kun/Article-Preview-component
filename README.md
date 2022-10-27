@@ -69,5 +69,5 @@ Users should be able to:
 ## Author
 
 - Frontend Mentor - [@itadori-kun](https://www.frontendmentor.io/profile/itadori-kun)
-- Twitter - [@yGodwincruise](https://www.twitter.com/Godwincruise)
+- Twitter - [@Godwincruise](https://www.twitter.com/Godwincruise)
 
