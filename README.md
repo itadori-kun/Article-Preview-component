@@ -39,7 +39,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github](https://github.com/itadori-kun/Article-Preview-component.git)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Netlify](https://article-preview-component-landingpage.netlify.app/)
 
 ## My process
 
